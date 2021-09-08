@@ -25,7 +25,7 @@ Graphviz es una Herramienta de construcción de graficas. Cuyas aplicaciones est
 
 Actualmente solo esta disponible la versión numero 2.38 solo para modo grafico para Windows debido a que se usa una aplicación denominada GVEDIT. Sin embargo según el sitio [click aqui](https://forum.graphviz.org/t/is-gvedit-depreciated/349/2) , se esta trabajando en una versión de Graphviz para Windows.
 
-![Imagen de graphviz](imagenes\imagenDeGraphviz.jpg)
+![Imagen de graphviz](imagenes/imagenDeGraphviz.jpg)
 
 
 
@@ -43,5 +43,5 @@ También existe una versión en linea de este editor [Editor en linea](http://ma
 
 
 
-![Editor en linea](imagenes\editorEnlinea.jpg)
+![Editor en linea](imagenes/editorEnlinea.jpg)
 
