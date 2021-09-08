@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Graphviz
 
-You can use the [editor on GitHub](https://github.com/eduardolozap/graphviz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Graphviz es una Herramienta de construcción de graficas. Cuyas aplicaciones están en construir:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Grafos no dirigidos
+- Grafos dirigidos
+- Listas
+- Diagramas de Hasse
+- Relaciones entre objetos
+- Jerarquías 
+- Listas
+- Etc.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Descarga e Instalación.
 
-# Header 1
-## Header 2
-### Header 3
+[Puedes descargarlo de la siguiente dirección](https://graphviz.org/download/)
 
-- Bulleted
-- List
+[Su documentación se encuentra  aquí ](https://graphviz.org/documentation/)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Sobre la versión 2.38
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Actualmente solo esta disponible la versión numero 2.38 solo para modo grafico para Windows debido a que se usa una aplicación denominada GVEDIT. Sin embargo según el sitio [click aqui](https://forum.graphviz.org/t/is-gvedit-depreciated/349/2) , se esta trabajando en una versión de Graphviz para Windows.
 
-### Jekyll Themes
+![Imagen de graphviz](imagenes\imagenDeGraphviz.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eduardolozap/graphviz/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+Cada día salen versiones estables que se pueden utilizar ejecutando el cmd en Windows.
+
+
+
+###  Versión en línea del editor
+
+
+
+También existe una versión en linea de este editor [Editor en linea](http://magjac.com/graphviz-visual-editor/)
+
+
+
+![Editor en linea](imagenes\editorEnlinea.jpg)
+
