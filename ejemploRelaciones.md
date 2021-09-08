@@ -1,5 +1,5 @@
 
-## Ejemplo para sdescribir relaciones.
+## Ejemplo para describir relaciones.
 
 Supongamos que nos interesa graficar la siguiente relacion U={(2,1),(3,1),(3,2),(4,1),(4,2),(4,3)} de A sobre un conjunto A = {1,2,3,4} 
 como se muestra en el siguiente codigo.
